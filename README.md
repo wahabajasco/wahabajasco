@@ -1,8 +1,22 @@
-- 👋 Hi, iamwajasco...
-- 👀 I’m interested in Cloud computing and DevOps Engineering ...
-- 🌱 I’m currently learning linux on my Road to DevOps...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Main areas of expertise
+Support Specialist | Software Quality Assurance Engineer | Cloud Engineer | MS Certified: Azure Administrator Associate | DevOps | IT Project Management | Tech Trainer MCT | IT Consultant | WordPress
+
+### About
+I am a software engineer with 5 years of experience in providing support and software quality assurance. I have hands-on experience in a wide range of domains and technology stacks, including:
+
+- Software testing
+- Physical and remote support and troubleshooting
+- Cloud Platforms (Azure, GCP, AWS and Digital Ocean)
+- Project Management (JiRA, Asana, Trello)
+- Systems Administration (Windows, Linux, Mac)
+- DevOps
+- Database Administration (SQL, Python)
+- WordPress (PHP, JQuery)
+- Technical Documentation
+- Technical Training
+- Front-end development (HTML, CSS and JavaScript)
+
+I work well in the development team and collaborate with cross-functional teams in a fast-paced environment to deliver solutions.
 
 <!---
 wahabajasco/wahabajasco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
