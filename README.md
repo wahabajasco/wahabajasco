@@ -2,7 +2,7 @@
 Support Specialist | Software Quality Assurance Engineer | Cloud Engineer | MS Certified: Azure Administrator Associate | DevOps | IT Project Management | Tech Trainer MCT | IT Consultant | WordPress
 
 ### About
-I am a software engineer with 5 years of experience in providing support and software quality assurance. I have hands-on experience in a wide range of domains and technology stacks, including:
+I am a software engineer with 5 years of experience in providing cloud solutions, support and software quality assurance. I have hands-on experience in a wide range of domains and technology stacks, including:
 
 - Software testing
 - Physical and remote support and troubleshooting
