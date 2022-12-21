@@ -6,15 +6,18 @@ I am a software engineer with 5 years of experience in providing support and sof
 
 - Software testing
 - Physical and remote support and troubleshooting
-- Cloud Platforms (Azure, GCP, AWS and Digital Ocean)
-- Project Management (JiRA, Asana, Trello)
-- Systems Administration (Windows, Linux, Mac)
-- DevOps
-- Database Administration (SQL, Python)
-- WordPress (PHP, JQuery)
+- Cloud Platforms: Azure, GCP, AWS and Digital Ocean
+- Project Management: Azure DevOps, JiRA, Asana, Trello
+- Platforms: Windows, Linux, Mac
+- DevOps: Azure pipeline, GitHub
+actions, Bitbucket pipeline, Jenkins,
+CodePipeline, Docker, Kubernetes
+- Database Administration: SQL, MSSQL Server, MySQL,
+Postgres SQL
+- Programming Language: PHP, JavaScript,
+Python
 - Technical Documentation
 - Technical Training
-- Front-end development (HTML, CSS and JavaScript)
 
 I work well in the development team and collaborate with cross-functional teams in a fast-paced environment to deliver solutions.
 
