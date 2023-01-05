@@ -1,25 +1,17 @@
 ### Main areas of expertise
-Support Specialist | Software Quality Assurance Engineer | Cloud Engineer | MS Certified: Azure Administrator Associate | DevOps | IT Project Management | Tech Trainer MCT | IT Consultant | WordPress
+Cloud & DevOps Engineer (Azure, AWS & GCP) | Support Specialist | Software Quality Assurance Engineer | MS Certified: Azure Administrator Associate | IT Project Management | Tech Trainer MCT | IT Consultant | WordPress Expert
 
 ### About
-I am a software engineer with 5 years of experience in providing cloud solutions, support and software quality assurance. I have hands-on experience in a wide range of domains and technology stacks, including:
+I am a professional cloud and systems engineer with a passion for using technology to solve business problems. As a cloud and systems engineer with over 4 years of experience, I have a strong track record of providing cloud solutions to clients, ensuring the delivery of quality services to end users while supporting and maintaining the infrastructure and applications.
+ 
+I have experience with cloud platforms such as AWS, Microsoft Azure, Google Cloud Platform, and DigitalOcean, as well as implementing DevOps principles and the ability to build CI/CD pipeline from the ground up using Bitbucket pipeline, GitHub actions, and Azure pipeline. I have a proven ability to troubleshoot technical issues, optimize system performance, and provide ongoing support and maintenance for systems. I collaborate closely with developers, product managers and cross-functional teams to understand business requirements, plans, design architectures and deployment strategies with little or no supervision while managing and leading projects to successful delivery in an agile environment.
 
-- Software testing
-- Physical and remote support and troubleshooting
-- Cloud Platforms: Azure, GCP, AWS and Digital Ocean
-- Project Management: Azure DevOps, JiRA, Asana, Trello
-- Platforms: Windows, Linux, Mac
-- DevOps: Azure pipeline, GitHub
-actions, Bitbucket pipeline, Jenkins,
-CodePipeline, Docker, Kubernetes
-- Database Administration: SQL, MSSQL Server, MySQL,
-Postgres SQL
-- Programming Language: PHP, JavaScript,
-Python
-- Technical Documentation
-- Technical Training
-
-I work well in the development team and collaborate with cross-functional teams in a fast-paced environment to deliver solutions.
+Operating systems: Windows, Linux
+Containerization (Docker)
+Container Orchestration (Kubernetes)
+Database: SQL, MSSQL Server, MySQL
+Programming Language: PHP, JavaScript, Python
+Project Management: Azure DevOps, JiRA, Asana, Trello
 
 <!---
 wahabajasco/wahabajasco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
